@@ -1,0 +1,14 @@
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\bin\Debug\2MinHalf.exe.config
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\bin\Debug\2MinHalf.exe
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\bin\Debug\2MinHalf.pdb
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\bin\Debug\2MinHalf.xml
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\2MinHalf.vbprojAssemblyReference.cache
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\_2MinHalf.Form1.resources
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\_2MinHalf.Resources.resources
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\2MinHalf.vbproj.GenerateResource.cache
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\2MinHalf.vbproj.CoreCompileInputs.cache
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\2MinHalf.exe
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\2MinHalf.xml
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\2MinHalf.pdb
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\_2MinHalf.Form2.resources
+C:\Users\uio890520\Desktop\2MinHalf\2MinHalf\obj\Debug\_2MinHalf.Form3.resources
